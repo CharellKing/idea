@@ -7,6 +7,10 @@
 | 想法名称 (目录) | Shopify 应用分类 | 项目前景 | 实现难度 |
 | :--- | :--- | :--- | :--- |
 | `packing-insert-designer` | 营销 / 品牌化 | ★★★★★ (极佳) | ★★☆☆☆ (较低) |
+| `cart-abandonment-recovery` | 销售和转化 / 营销自动化 | ★★★★★ (极佳) | ★☆☆☆☆ (非常低) |
+| `social-proof-aggregator` | 店铺设计 / 信任建立 | ★★★★☆ (非常好) | ★☆☆☆☆ (非常低) |
+| `ai-product-description` | 营销 / 内容创作 | ★★★★☆ (非常好) | ★☆☆☆☆ (非常低) |
+| `smart-product-recommendations` | 销售和转化 / 个性化 | ★★★★☆ (非常好) | ★★☆☆☆ (较低) |
 | `3d-viewer-app` | 店铺设计 / 产品页面 | ★★★★☆ (非常好) | ★★★☆☆ (中等) |
 | `countdown-bar` | 销售和转化 / 促销 | ★★★★★ (极佳) | ★☆☆☆☆ (非常低) |
 | `testimonial-block` | 店铺设计 / 页面增强 | ★★★★☆ (非常好) | ★☆☆☆☆ (非常低) |
@@ -14,6 +18,51 @@
 | `trust-badge` | 店铺设计 / 页面增强 | ★★★☆☆ (不错) | ★☆☆☆☆ (非常低) |
 | `policy-generator` | 店铺搭建 / 法律 | ★★★☆☆ (不错) | ★☆☆☆☆ (非常低) |
 | `price-highlighter` | 销售和转化 / 促销 | ★★★☆☆ (不错) | ★★☆☆☆ (较低) |
+
+---
+
+## 如何寻找 Shopify 应用开发灵感
+
+作为独立开发者，持续寻找新的应用开发灵感非常重要。以下是一些有效的方法和资源：
+
+### 官方资源
+- **Shopify App Store** - 浏览现有应用，查看用户评价和功能
+- **Shopify Blog** - 了解商家痛点和需求趋势
+- **Shopify Dev Changelog** - 跟踪平台更新和新 API 功能
+- **Shopify Partner Blog** - 获取开发灵感和最佳实践
+
+### 商家社区
+- **Reddit** - r/shopify, r/ecommerce 子版块，了解真实商家需求
+- **Shopify Community Forums** - 商家直接反馈问题的地方
+- **Facebook Groups** - Shopify Entrepreneurs, E-commerce 相关群组
+- **Quora** - 搜索 Shopify 相关问题和讨论
+
+### 竞品分析
+- **Product Hunt** - 发现电商相关新工具和趋势
+- **Capterra/G2** - 软件评测平台，分析用户需求和痛点
+- **Twitter/X** - 关注 Shopify 开发者、商家和相关影响者
+- **Indie Hackers** - 了解独立开发者的成功案例
+
+### 开发者资源
+- **GitHub** - 搜索 Shopify 相关开源项目和代码示例
+- **Stack Overflow** - 查看开发者常见问题和解决方案
+- **Shopify Discord** - 与其他开发者交流经验和想法
+- **YouTube** - 观看 Shopify 开发教程和案例分享
+
+### 研究方法
+1. **在商家论坛找反复出现的问题** - 这些是真实的需求痛点
+2. **分析高评分应用的成功模式** - 了解什么功能受商家欢迎
+3. **关注 Shopify 新 API 的应用场景** - 新功能往往带来新机会
+4. **观察竞争对手的更新路线图** - 了解市场趋势和方向
+5. **直接与商家交流** - 了解他们的日常运营痛点和需求
+6. **分析电商趋势报告** - 了解行业发展方向和新兴需求
+
+### 灵感验证
+找到想法后，建议通过以下方式验证：
+- 在 Shopify Community 搜索相关讨论
+- 查看现有类似应用的评论和评分
+- 估算目标市场规模和付费意愿
+- 评估技术实现难度和开发成本
 
 ---
 
